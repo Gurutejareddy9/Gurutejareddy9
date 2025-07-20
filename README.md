@@ -48,13 +48,5 @@ function currently(){
   <img src="https://github-profile-trophy.vercel.app/?username=Gurutejareddy9&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4" alt="Gurutejareddy9 GitHub Trophy">
 </div>
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gurutejareddy9&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurutejareddy9&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=Gurutejareddy9&icon=1&color=13)](https://visitcount.itsvg.in)
-
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GuruTeja9) 
