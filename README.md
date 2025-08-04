@@ -44,9 +44,5 @@ function currently(){
   <img src="https://nirzak-streak-stats.vercel.app/?user=Gurutejareddy9&theme=ambient_gradient&hide_border=false" alt="Gurutejareddy9 Streak Stats">
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gurutejareddy9&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4" alt="Gurutejareddy9 GitHub Trophy">
-</div>
-
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GuruTeja9) 
